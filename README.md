@@ -10,9 +10,9 @@ This project is a secure, role-sensitive chatbot that answers medical queries us
 
 ---
 
-![Application Flow](./assets/applicationFlow (2).png)
+![Application Flow](<./assets/applicationFlow%20(2).png>)
 
-![Core Modules](./assets/coreModules (2).png)
+![Core Modules](<./assets/coreModules%20(2).png>)
 
 [📄 View Full Project Report (PDF)](./assets/projectReport.pdf)
 
